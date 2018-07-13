@@ -1,0 +1,21 @@
+ROLAND:
+-	Tool Integration
+-	GUI lastige Anwendungen
+o	C#, .NET
+o	Monatl. GD Modell
+o	Wir aktualisieren alle 3 Monate
+o	Fachabteilung wir eingebunden 
+o	Tester : Skill: 2,5 PT, Fachligkeit verstehen, auch man. Tests
+	350 TF in XRAY für GD
+•	GDMS hoher Grad an man. TF
+•	Nichtfunktionale 
+•	Qs-av system läuft, mock
+•	Dgms, fed clients crontab
+•	
+QS-AV: zu wenig TF
+	Alle TF in Java, Quellcode in
+	Selenium wird zum Einsatz
+o	Backend, viel Java, automati. Test ganz wenig
+WOLFGER:
+-	Finanzielles Modell wichtig, skalierbar
+ 
